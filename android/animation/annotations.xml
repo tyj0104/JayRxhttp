@@ -1,0 +1,5 @@
+<root>
+  <item name='android.animation.ValueAnimator INFINITE'>
+    <annotation name='android.support.annotation.NonNull'/>
+  </item>
+</root>
