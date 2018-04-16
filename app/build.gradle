@@ -77,9 +77,10 @@ dependencies {
     compile 'com.trello.rxlifecycle2:rxlifecycle-components:2.0.1'
     compile 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.1@aar'
     compile 'io.realm:realm-annotations:2.2.1'
-
-
-
+    //java
+    compile 'commons-io:commons-io:2.5'
+    compile 'commons-codec:commons-codec:1.11'
+    compile 'org.apache.commons:commons-lang3:3.5'
 
 
 }

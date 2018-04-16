@@ -124,7 +124,6 @@ public class ProgressView extends View
      * 根据当前旋转角度计算mRingRadius、mDotRadius的值
      * mCurrentAngle:   0 - 180 - 360
      * mRingRadius:     最小 - 最大 - 最小
-     * @author 漆可
      * @date 2016-6-17 下午3:04:35
      */
     private void calculateRadiusFromProgress()
