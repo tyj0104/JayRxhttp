@@ -9,7 +9,7 @@ import java.io.IOException;
 
 /**
  * Gson转换时，支持Json/JsonArray转换成String
- * Created by maoyudong on 2016/12/21.
+ * Created byjay on 2016/12/21.
  */
 
 public class StringAdapter extends TypeAdapter<String> {

@@ -6,7 +6,7 @@ import io.reactivex.disposables.Disposable;
 
 /**
  * Disposable 抽象继承类
- * Created by tianyingyingjie on 2017/11/29.
+ * Created by jay on 2017/11/29.
  */
 public abstract class AbstractDisposable implements Disposable {
     private final AtomicBoolean unsubscribed = new AtomicBoolean();

@@ -41,7 +41,7 @@ import retrofit2.http.QueryMap;
 /**
  * import
  * Http异步请求工具类
- * Created by maoyudong on 2017/6/8.
+ * Created by jay on 2017/6/8.
  */
 
 @NoArgsConstructor(access = AccessLevel.PRIVATE)

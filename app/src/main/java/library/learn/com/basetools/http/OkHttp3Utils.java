@@ -18,7 +18,7 @@ import okhttp3.logging.HttpLoggingInterceptor;
 
 /**
  * OkHttp3工具类
- * Created by maoyudong on 2016/12/9.
+ * Created byjay on 2016/12/9.
  */
 
 public class OkHttp3Utils {

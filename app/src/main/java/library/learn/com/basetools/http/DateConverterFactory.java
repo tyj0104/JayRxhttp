@@ -13,7 +13,7 @@ import retrofit2.Retrofit;
 
 /**
  * Retrofit2日期转换工厂
- * Created by maoyudong on 2017/1/19.
+ * Created by jay on 2017/1/19.
  */
 
 @AllArgsConstructor

@@ -18,7 +18,7 @@ import retrofit2.Retrofit;
 
 /**
  * 自动重试的retrofit2-rxjava2-adapter
- * Created by maoyudong on 2016/12/15.
+ * Created by jay on 2016/12/15.
  */
 
 @AllArgsConstructor
