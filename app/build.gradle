@@ -13,6 +13,8 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+
+
     buildTypes {
         release {
             minifyEnabled false
@@ -81,6 +83,9 @@ dependencies {
     compile 'commons-io:commons-io:2.5'
     compile 'commons-codec:commons-codec:1.11'
     compile 'org.apache.commons:commons-lang3:3.5'
+
+
+  //  compile 'com.pingan:pajf-library-rxhttp:0.0.6'
 
 
 }

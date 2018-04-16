@@ -24,5 +24,7 @@ public class ExampleUnitTest {
         System.out.println(i);
 
    RxHttp.getDefaultInstance().post("http://103.28.214.51:1080/pajf_phone_stage/sysgoods/listStage").blockingFirst();
+
+
     }
 }
