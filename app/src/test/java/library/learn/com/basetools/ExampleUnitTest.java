@@ -1,9 +1,9 @@
 package library.learn.com.basetools;
 
+
 import org.junit.Test;
 
 import library.learn.com.basetools.http.RxHttp;
-import library.learn.com.basetools.noml.B;
 
 import static org.junit.Assert.*;
 
@@ -17,14 +17,11 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
     }
+
     @Test
-    public void Test(){
-        B b = new B();
-        int i = B.get(0);
-        System.out.println(i);
+    public void Test() {
 
-   RxHttp.getDefaultInstance().post("http://103.28.214.51:1080/pajf_phone_stage/sysgoods/listStage").blockingFirst();
-
+        RxHttp.getDefaultInstance().post("http://103.28.214.51:1080/pajf_phone_stage/sysgoods/listStage").blockingFirst();
 
     }
 }

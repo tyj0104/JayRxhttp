@@ -26,6 +26,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  * SSL配置类
+ * Created by jay on 2017/11/29.
  */
 @RequiredArgsConstructor(access = AccessLevel.PRIVATE)
 @Getter
